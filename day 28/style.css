@@ -1,0 +1,115 @@
+/* body {
+    font-style: italic;
+    font-family:Impact;
+    background: #783bd2;
+}
+p {
+    color:yellow;
+    background: green;
+    font-size:40px;
+}
+
+
+strong {
+    color:red;
+    background: green;
+    font-size: 20px;
+}
+
+h1 {
+    /* font-size: 40px; */
+/* }
+
+.student {
+    color:antiquewhite;
+    background: green;
+}
+
+.baby {
+    color:azure;
+    background:black;
+}
+.baby:hover {
+    color:blue;
+    background:red;
+}
+
+.baby:active {
+    font-size:48px;
+}
+.junior {
+    color:blue;
+    background:pink;
+}
+.junior:hover {
+    color:purple;
+    color:aqua;
+}
+
+.big-man {
+    color:red;
+    background:yellow;
+}
+
+.senior {
+    color:beige;
+    background: red;
+}
+
+.java-mentor {
+    color:whitesmoke;
+    background:aqua;
+}
+.java-mentor:hover {
+    color:yellow;
+    background:green;
+}
+
+.java-mentor::first-letter {
+    color:blue;
+}
+
+
+#mentor {
+    color:black;
+    background:red;
+}  */
+
+
+
+
+
+
+
+p {
+    color: #783bd2;
+    background:aqua ;
+    font-size:40px;
+}
+
+p:hover {
+    color: red;
+    background:black ;
+    font-size:40px;
+}
+
+
+#header {
+    color:blue;
+    background:white;
+    font-size: 30px;
+}
+
+.aim {
+    color:#783bd2;
+    background:aqua ;
+    font-size: 40px;
+}
+.aim:hover {
+    color:yellow;
+    background:green;
+}
+
+.aim::first-letter {
+    color:blue;
+}

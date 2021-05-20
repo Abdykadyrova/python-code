@@ -1,0 +1,66 @@
+/* ul {
+    list-style: square;
+}
+
+li:hover {
+    font-size: 24px;
+    color:blue;
+    transition: all 0.5s ease 0.1s;
+}
+
+img:hover {
+    width:64px;
+    transition:all 0.8s ease 0.1s;
+} */
+
+
+
+
+
+ul {
+    list-style: square;
+}
+
+li:hover {
+    font-size: 64px;
+    color:blue;
+    background:aqua;
+    transition: all 0.5s ease 0.1s;
+}
+ img:hover {
+    width:64px;
+    transition:all 0.9s ease 0.5s;
+}  
+
+
+body {
+    font-style: italic;
+    font-family:Impact;
+    background: aqua;
+}
+
+li {
+    color:yellow;
+    background:#783bd2;;
+    font-size:40px;
+}
+
+
+p {
+    color: #783bd2;
+    background:aqua ;
+    font-size:40px;
+}
+
+p:hover {
+    color: red;
+    background:black ;
+    font-size:40px;
+}
+
+
+#header {
+    color:blue;
+    background:white;
+    font-size: 30px;
+}
