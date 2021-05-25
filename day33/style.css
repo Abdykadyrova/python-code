@@ -1,0 +1,47 @@
+.block1 {
+     border: 2px solid black; 
+    margin-bottom:20px ;
+    margin-left:20px ;
+    margin-right: 20px;
+
+    padding-top:10px;
+    padding:10px;
+    background-image:url("phone.png");
+    background-position:center;
+    /* рамка менен текстин ортосундагы отступ */
+    width:124px;
+    height:124px;
+    background-repeat:no-repeat;
+    color:red;
+
+}
+
+.block2 {
+    border:2px solid red;
+    margin-top: 20px;
+    margin-left:20px ;
+    margin-right: 20px;
+    padding-top:20px; рамка менен текстин ортосундагы отступ
+
+
+    padding:10px;
+    background-color :blue;
+
+}
+
+.span1 {
+    border: 2px solid green;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.span2 {
+    border: 2px solid green;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+}
+}
+

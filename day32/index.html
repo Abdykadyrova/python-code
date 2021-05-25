@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Добовление</title>
+</head>
+<body>
+    <div class="form_post_add"> 
+        <form action="">
+            <fieldset>
+                <legend> форма добовление статьи</legend>
+                <label for="title"> заголовок</label> <br>
+                <input type="text" name="title" id="title"> <br>
+                <label for="title"> value</label> <br>
+                <textarea name="content" id="content" cols="30"
+                rows="10" ></textarea> <br>
+                <input type="checkbox" name="visibile" id="visibile">
+                <label for="visibile"> Видмость</label><br>
+                <label for="visibile"> Выберите категорию</label> <br>
+
+            <select name="post_category" id="post_category">
+                <option valiue="economic"> Экономика</option>
+                <option valiue="catastroph"> катастрофы</option>
+                <option valiue="programming"> программирование</option>
+                <option valiue="internet"> интернет</option>
+                <optgroup label= "Новости по КР">
+                    <option valiue="osh"> OSH</option>
+                    <option value="bishkek"> BISH</option>
+                </optgroup> 
+
+                <optgroup label= "Новости o биткойн">
+                    <option valiue="bts"> биткойн</option>
+                    <option value="eth"> эфириум</option>
+                </optgroup>
+            </select>
+            <br>
+            <button type="submit"> Сохранит</button> 
+
+        </form>
+
+    </div>
+</body>
+</html>

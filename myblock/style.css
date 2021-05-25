@@ -1,0 +1,91 @@
+.login-content {
+    text-align:center;
+    width: 380px;
+    margin: 50px auto;
+    background-color: aliceblue;
+    padding:40px 40px;
+    border-radius: 5%;
+}
+
+.copyright {
+    margin-top: 100px;
+    color:gray;
+    
+}
+
+.login-image {
+    border-radius:50%;
+}
+
+.body {
+    background-color:gray;
+    width: 100px;
+}
+
+.text-white .nav-link {
+    color: white;
+}
+
+.bg-mygradient {
+    background: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+}
+
+
+.search {
+    margin-left: 100px;
+}
+.submit {
+    margin-left: 100px;
+}
+
+
+
+
+
+
+
+.form_post_add {
+    /* text-align:center; */
+    width: 500px;
+    /* margin: 50px auto; */
+    background-color: aliceblue;
+    /* padding:40px 40px; */
+    /* border-radius: 5%; */
+}
+
+.copyright {
+    margin-top: 100px;
+    color:gray;
+    
+}
+
+/* .login-image {
+    border-radius:50%;
+} */
+
+.body {
+    background-color:gray;
+    /* width: 500px; */
+}
+
+.text-white .nav-link {
+    color: white;
+}
+
+.bg-mygradient {
+    background: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+}
+
+
+.search {
+    margin-left: 100px;
+}
+.submit {
+    margin-left: 100px;
+}
+
+
+
+.inphoto {
+    border-radius: 50%;
+}

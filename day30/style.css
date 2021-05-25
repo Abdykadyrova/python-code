@@ -1,0 +1,67 @@
+ .puthon_group {
+    border:1px solid yellowgreen;
+    
+}
+.python_group caption {
+    border:1px solid  green; 
+}
+
+.python_group td {
+    border:1px solid yellowgreen;
+}
+
+.python_group td {
+    border:1px solid blue;
+    padding: 10px;
+    padding-top:30px;
+}
+
+.bootcamp-block {
+    border:1px solid blue;
+    background-color: white;
+    padding:15px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    margin-left:50%;
+}
+
+.bootcamp-inline {
+    border:1px solid blue;
+    background-color:white;
+    padding:15px;
+    margin-left: 80px;
+    margin-left:50%;
+} 
+
+/* .php_group {
+    border:1px solid yellowgreen;
+    
+}
+.php_group caption {
+    border:1px solid  green; 
+}
+
+.php_group td {
+    border:1px solid yellowgreen;
+}
+
+.php_group td {
+    border:1px solid blue;
+    padding: 10px;
+    padding-top:30px;
+} */
+
+.countries {
+    border:1px solid green;
+}
+
+.countries caption {
+    border:1px solid aqua;
+}
+
+.countries td {
+    border:2px solid blue;
+    padding:10px;
+    padding-top:15px;
+
+}

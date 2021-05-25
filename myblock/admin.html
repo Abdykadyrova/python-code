@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="bootstrap-5.0.1-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+
+    
+</head>
+
+
+   <h2> Welcome to Website!
+   </h2>
+   
+<body>
+    <img src="изображение.png" alt="Логотип"
+    width="100" height="100">
+   
+   
+    <div class ="header">
+        <header class="navbar navbar-light bg-mygradient text-white">
+            <nav class="nav nav-pills"> 
+           
+                <span class="nav-item">
+                    <a href= "/" class="nav-link">Главная</a>
+                </span>
+                <span class="nav-item">
+                    <a href= "/" class="nav-link">Статьи</a>
+                </span>
+
+                <span class="nav-item">
+                    <a href= "/" class="nav-link"> Пользователи</a>             
+                 </span>
+
+            </nav>
+            <nav class="nav-pills justtify-content-end">
+                <span class="nav-item">
+                    <a href= "/" class="nav-link">Вход</a>
+
+                </span>
+            </nav>
+        </header>
+    </div>
+</body>
+
+    <style>
+        body { background: blue; }
+        input[type="search"] { 
+         border: 1px solid #98baba; /* Параметры рамки */
+         background: transparent; /* Прозрачный фон */
+         padding: 1px 4px; /* Поля вокруг текста */
+         color: #fff; /* Цвет текста */
+        }
+        input[type="search"]::-moz-placeholder {
+         color: #ffd595; /* Цвет подсказывающего текста */
+        }
+        input[type="search"]::-webkit-input-placeholder { color: #ffd595; }
+        input[type="search"]:-ms-input-placeholder { color: #ffd595; }
+        input[type="search"]::-ms-input-placeholder { color: #ffd595; }
+        input[type="search"]::placeholder { color: #ffd595; } 
+       </style>
+      </head>
+      <body>
+       <form action="handler.php">
+        <!-- <h3><input type="search" placeholder="Поиск по сайту" name="q"> -->
+           <!-- <input type="submit" value="Поиск" ></h3> -->
+           <div class="input-group mb-3">
+            <span class="input-group-text" id="basic-addon1"><img src="home.png" width="20px" height="20px" alt=""></span>
+            <input type="text" class="form-control" placeholder="Поиск по сайту" aria-label="" aria-describedby="basic-addon1">
+          </div>
+       </form>
+
+</body>
+</html>
